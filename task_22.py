@@ -22,6 +22,4 @@ set_b = set(b)
 c = list(set_a & set_b)
 cSort = sorted(c)
 
-#print(f"{cSort}")
-
 print(f"{cSort}")
